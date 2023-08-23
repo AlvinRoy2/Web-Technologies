@@ -1,0 +1,72 @@
+.team{
+    width: 70%;
+    height: 80%;
+    background: #f4f0ec;
+    display: flex;
+    
+}
+
+.goals{
+    display: inline-block;
+    margin-left: 10%;
+    left: 0;
+}
+.goals li{
+    text-decoration: none;
+}
+.defenders{
+    display: block;
+    margin-left: 10%;
+}
+.defenders li{
+    text-decoration: none;
+}
+.midfielders{
+    display: block;
+    margin-left: 10%;
+}
+.midfielders li{
+    text-decoration: none;
+}
+.attackers{
+    display: block;
+    margin-left: 10%;
+}
+.attackers li{
+    text-decoration: none;
+}
+.desc{
+    display: inline-block;
+}
+.players p{
+    width: 850px;
+    height: 100%;
+    text-indent: 40px;
+    font-size: 25px;
+    word-spacing: 5px;
+    margin-bottom: 10%;
+    
+}
+.images{
+    display: inline-block;
+    box-shadow: 7px 7px 5px rgba(0,0, 0, 0.5);
+    
+}
+.images img{
+    margin-left: 12%;
+}
+.images1{
+    left: 0;
+    display: inline-block;
+    margin-right: 5%;
+    box-shadow: 7px 7px 5px rgba(0,0, 0, 0.5);
+}
+.desc1{
+    display: inline-block;
+}
+.images .Julian{
+    margin-left: 0;
+}
+.players .Julian-text{
+    width: 900px;
+}
